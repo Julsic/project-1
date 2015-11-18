@@ -1,4 +1,4 @@
-print("Hello world!")
-print("How do you do")
-print("What's up")
-print("А чё ваще?")
+print("Hello world!");
+print("How do you do");
+print("What's up");
+print("А чё ваще?");
